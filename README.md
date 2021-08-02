@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonyindian, aspiring fullstacker
 - 👀 I’m interested in working as a fullstacker :)
 - 🌱 I’m currently learning how apply for jobs ;)  my skills include JS, python, react/redux, django, docker, typescript is on the list
-- 💞️ I’m looking to collaborate on diff
+- 💞️ I’m looking to collaborate
 - 📫 reach me on linkedin.com/in/antonyalex
 
 <!---
