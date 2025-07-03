@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tonyindian, aspiring fullstacker
-- 👀 I’m interested in working as a fullstacker :)
-- 🌱 I’m currently learning how apply for jobs ;)  my skills include JS, python, react/redux, django, docker, typescript is on the list
-- 💞️ I’m looking to collaborate
+- 👋 Hi, I’m @tonyindian, i did a fullstack bootcamp (https://academy.constructor.org/full-stack/zurich) back in 2021 but then life changed dramatically. well i'm rebuilding. with the help of AI. thank god it's 2025. :) 
 - 📫 reach me on linkedin.com/in/antonyalex
 
 <!---
